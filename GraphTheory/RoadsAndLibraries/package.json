@@ -1,0 +1,25 @@
+{
+  "name": "roads-and-libraries",
+  "version": "1.0.0",
+  "description": "Challenge \"Roads and Libraries\" of HackerRank",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "hackerrank",
+    "graph theory"
+  ],
+  "author": "Ivan Dackiewicz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivandack/hackerrank_challenges",
+    "directory": "GraphTheory/RoadsAndLibraries"
+  },
+  "homepage": "https://www.hackerrank.com/challenges/torque-and-development/problem",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
