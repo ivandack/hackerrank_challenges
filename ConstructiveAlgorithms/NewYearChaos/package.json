@@ -1,0 +1,25 @@
+{
+  "name": "new-year-chaos",
+  "version": "1.0.0",
+  "description": "Challenge \"New Year Chaos\" of HackerRank",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "hackerrank",
+    "constructive algorithms"
+  ],
+  "author": "Ivan Dackiewicz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivandack/hackerrank_challenges",
+    "directory": "ConstructiveAlgorithms/NewYearChaos"
+  },
+  "homepage": "https://www.hackerrank.com/challenges/new-year-chaos/problem",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
