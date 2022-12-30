@@ -20,6 +20,6 @@
   "homepage": "https://www.hackerrank.com/challenges/new-year-chaos/problem",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
